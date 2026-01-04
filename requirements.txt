@@ -2,3 +2,5 @@ pandas
 numpy
 scikit-learn
 jupyter
+
+#python -m pip install -r requirements.txt
